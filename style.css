@@ -24,13 +24,13 @@ h1, h2, h3, h4, h5, h6{
     font-family: 'MoonTime', sans-serif;
     font-size: 3.25rem;
     color: white;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6), 0 0 15px #FFDB51; /* Ombra esterna + bagliore */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6), 0 0 15px #FFDB51;
 }
 .regioni {
     margin: 0;
     font-size: 1rem;
     color: white;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6); /* Ombra esterna + bagliore */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
 }
 
 .content {
