@@ -1,0 +1,40 @@
+body{
+    background-color: #1A7AC3;
+    font-family: 'Bebas Neue', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.intestazione{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.titolo {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 5rem;
+    color: #FFDB51;
+    text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.6), 0 0 25px rgba(241, 196, 15, 0.9);
+    margin-top: -10px;
+    margin-bottom: -47px;
+}
+
+.sottotitolo {
+    margin: 0;
+    font-family: 'MoonTime', sans-serif;
+    font-size: 3.25rem;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6), 0 0 15px #FFDB51; /* Ombra esterna + bagliore */
+}
+.regioni {
+    margin: 0;
+    font-size: 1rem;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6); /* Ombra esterna + bagliore */
+}
+
+.content {
+    padding: 15px;
+    background-color: #ffffff ;
+    opacity: 0.8;
+}
